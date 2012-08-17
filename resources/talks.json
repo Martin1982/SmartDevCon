@@ -1,0 +1,84 @@
+{
+    "talks": [
+        {
+            "title": "Boot your phone to the web, Boot to Gecko",
+            "speaker": "Martin de Keijzer"
+        },
+        {
+            "title": "Develop Once Target All",
+            "speaker": "Oguz Bastemur"
+        },
+        {
+            "title": "Hybrid Web Apps with Sencha Touch 2",
+            "speaker": "Martin de Keijzer"
+        },
+        {
+            "title": "Building Mobile Apps in minutes, Social Coding with appMode",
+            "speaker": "Flame Herbohn"
+        },
+        {
+            "title": "Mind the Gap - Bringing legacy Android Apps up to speed",
+            "speaker": "Ronan Schwarz"
+        },
+        {
+            "title": "Building Android Applications with maven",
+            "speaker": "Benjamin Weiss"
+        },
+        {
+            "title": "Context is magic",
+            "speaker": "Ronan Schwarz"
+        },
+        {
+            "title": "Profiling and improving Android Applications using traceview",
+            "speaker": "Benjamin Weiss"
+        },
+        {
+            "title": "Moving Out of the Lab: Smartphone Brain Scanner",
+            "speaker": "Arek Stopczyński"
+        },
+        {
+            "title": "Torn Apart! – The challenge of chosing between closed and opened ecosystems",
+            "speaker": "Michael Lauer"
+        },
+        {
+            "title": "Navigating the waters between commercial and community",
+            "speaker": "Carsten Munk"
+        },
+        {
+            "title": "How to develop user experiences with QML for Mer",
+            "speaker": "Timur Kristóf"
+        },
+        {
+            "title": "Mer-Project based IVI Solution for Business Application",
+            "speaker": "Simon Bolek"
+        },
+        {
+            "title": "Telecar",
+            "speaker": "Jakub Nowacki"
+        },
+        {
+            "title": "PS Move API - Cross-platform 3D motion controller tracking",
+            "speaker": "Thomas Perl"
+        },
+        {
+            "title": "The power of gamification in mobile campaigns",
+            "speaker": "Monika Konieczny"
+        },
+        {
+            "title": "iOS vs. Android, hardcore vs. casual in free-to-play games",
+            "speaker": "Martin Chamrad"
+        },
+        {
+            "title": "The Formula for App Success",
+            "speaker": "Jeremy Olson"
+        },
+        {
+            "title": "Mobile Applications Designed for All",
+            "speaker": "Mikołaj Rotnicki"
+        },
+        {
+            "title": "Testable Android Applications",
+            "speaker": "Mateusz Herych"
+        }
+    ]
+}

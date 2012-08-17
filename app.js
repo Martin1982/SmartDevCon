@@ -1,11 +1,25 @@
 Ext.application({
+    profiles: ["Phone", "Tablet"],
+
+    models: ["Talk"],
+
+    controllers: ["tablet.Talks", "phone.Talks", "Talks", "PictureTab"],
+
     name: 'SmartDevCon',
 
     requires: [
         'Ext.MessageBox'
     ],
 
-    views: ['Main'],
+    views: [
+        'Main',
+        'Speakers',
+        'Talks'
+    ],
+
+    stores: [
+        'Talks'
+    ],
 
     icon: {
         '57': 'resources/icons/Icon.png',
@@ -31,6 +45,8 @@ Ext.application({
 
         // Initialize the main view
         Ext.Viewport.add(Ext.create('SmartDevCon.view.Main'));
+
+        Ext.Msg.alert('Welcome', 'Welcome to SmartDevCon!');
     },
 
     onUpdated: function() {

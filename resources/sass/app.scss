@@ -1,3 +1,4 @@
+$base-color: #f07f1b;
 @import 'sencha-touch/default/all';
 
 // You may remove any of the following modules that you
@@ -17,3 +18,8 @@
 @include sencha-msgbox;
 
 // Your custom code goes here...
+@include pictos-iconmask('photos1');
+@include pictos-iconmask('chat4');
+
+
+

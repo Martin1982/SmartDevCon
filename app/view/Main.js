@@ -43,7 +43,19 @@ Ext.define("SmartDevCon.view.Main", {
                         posterUrl: 'http://b.vimeocdn.com/ts/261/062/261062119_640.jpg'
                     }
                 ]
+            },
+            {
+                xtype: 'speakercarousel',
+                title: 'Speakers',
+                iconCls: 'photos1'
+            },
+            {
+                xtype: 'talks',
+                title: 'Talks',
+                iconCls: 'chat4'
             }
         ]
     }
 });
+
+
